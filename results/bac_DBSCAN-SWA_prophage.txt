@@ -1,0 +1,216 @@
+The following contents displays predicted prophage regions
+first line of each prophage describes the prophage information and the following lines describe the proteins and homology proteins in uniprot database
+prophage_protein_ID	prophage_protein_product	key_proteins	hit_protein_id	hit_species	identity	evalue
+>prophage 1
+NZ_CP082203	NZ_CP082203.1 Streptococcus suis strain NJ3 chromosome, complete genome	2179024	116536	159646		Streptococcus_phage(98.18%)	59	NA	NA
+EHGHJBNO_00153|116536_120157_+	DNA-directed RNA polymerase subunit beta'	NA	R4TQM7	Phaeocystis_globosa_virus	25.5	1.96e-63
+EHGHJBNO_00154|120304_120679_+	hypothetical protein	NA	NA	NA	NA	NA
+EHGHJBNO_00155|120706_121657_-	Microcin C7 self-immunity protein MccF	NA	NA	NA	NA	NA
+EHGHJBNO_00156|121742_122420_+	ComG operon protein 1	NA	NA	NA	NA	NA
+EHGHJBNO_00157|122429_123869_-	hypothetical protein	NA	K4JU73	Streptococcus_phage	100	0.0
+EHGHJBNO_00158|124002_124572_-	hypothetical protein	NA	K4JWA1	Streptococcus_phage	100	2.44e-122
+EHGHJBNO_00159|124585_125380_-	LexA repressor	NA	K4JTM2	Streptococcus_phage	100	4.09e-177
+EHGHJBNO_00160|125549_125774_+	hypothetical protein	NA	K4JXN9	Streptococcus_phage	100	3.22e-45
+EHGHJBNO_00161|125878_126052_+	hypothetical protein	NA	K4K7R5	Streptococcus_phage	100	4.37e-33
+EHGHJBNO_00162|126027_126174_+	hypothetical protein	NA	K4JU69	Streptococcus_phage	100	1.29e-20
+EHGHJBNO_00163|126216_126534_+	hypothetical protein	NA	K4JW96	Streptococcus_phage	100	6.56e-70
+EHGHJBNO_00164|126785_127361_+	hypothetical protein	NA	K4JTL7	Streptococcus_phage	100	1.52e-84
+EHGHJBNO_00165|127364_128063_+	hypothetical protein	NA	K4JXN5	Streptococcus_phage	100	2.32e-161
+EHGHJBNO_00166|128077_128404_+	hypothetical protein	NA	K4K7R2	Streptococcus_phage	100	2.63e-75
+EHGHJBNO_00167|128414_129476_+	hypothetical protein	NA	K4JU67	Streptococcus_phage	100	6.77e-242
+EHGHJBNO_00168|129465_129987_+	hypothetical protein	NA	K4JW89	Streptococcus_phage	100	7.00e-118
+EHGHJBNO_00169|129997_130198_+	hypothetical protein	NA	K4JTL3	Streptococcus_phage	100	2.29e-40
+EHGHJBNO_00170|130187_130700_+	Single-stranded DNA-binding protein	NA	K4JXN0	Streptococcus_phage	100	5.77e-111
+EHGHJBNO_00171|130715_130994_+	hypothetical protein	NA	K4K7Q9	Streptococcus_phage	100	5.97e-69
+EHGHJBNO_00172|130998_131787_+	hypothetical protein	NA	U4KJA1	Streptococcus_phage	93.4	5.65e-185
+EHGHJBNO_00173|131783_131987_+	hypothetical protein	NA	K4JW84	Streptococcus_phage	100	2.88e-40
+EHGHJBNO_00174|131983_132418_+	hypothetical protein	NA	K4JTK7	Streptococcus_phage	100	1.62e-93
+EHGHJBNO_00175|132428_132866_+	hypothetical protein	NA	K4JXM6	Streptococcus_phage	100	1.56e-96
+EHGHJBNO_00176|132867_133605_+	hypothetical protein	NA	K4K7Q4	Streptococcus_phage	100	3.17e-170
+EHGHJBNO_00177|133624_134011_+	hypothetical protein	NA	K4JU58	Streptococcus_phage	100	2.73e-82
+EHGHJBNO_00178|134010_134133_+	hypothetical protein	NA	K4JW82	Streptococcus_phage	100	1.41e-22
+EHGHJBNO_00179|134136_134439_+	hypothetical protein	NA	K4JTK4	Streptococcus_phage	100	4.75e-63
+EHGHJBNO_00180|134439_134616_+	hypothetical protein	NA	K4JXM1	Streptococcus_phage	100	9.79e-35
+EHGHJBNO_00181|134622_134853_+	hypothetical protein	NA	K4K7P8	Streptococcus_phage	100	4.25e-46
+EHGHJBNO_00182|134849_135269_+	hypothetical protein	NA	K4JU53	Streptococcus_phage	100	2.44e-97
+EHGHJBNO_00183|135252_135645_+	hypothetical protein	NA	K4JW78	Streptococcus_phage	100	3.69e-99
+EHGHJBNO_00184|135641_136022_+	hypothetical protein	NA	K4JTJ9	Streptococcus_phage	100	2.17e-87
+EHGHJBNO_00185|136089_136761_+	hypothetical protein	NA	K4JXL6	Streptococcus_phage	100	1.36e-169
+EHGHJBNO_00186|136730_137141_+	hypothetical protein	NA	K4K7P5	Streptococcus_phage	100	1.38e-86
+EHGHJBNO_00187|137332_137812_+	hypothetical protein	NA	K4JU48	Streptococcus_phage	100	1.06e-103
+EHGHJBNO_00188|137798_139112_+	hypothetical protein	NA	K4JW72	Streptococcus_phage	100	0.0
+EHGHJBNO_00189|139124_140708_+	hypothetical protein	NA	K4JTJ5	Streptococcus_phage	100	0.0
+EHGHJBNO_00190|140710_141862_+	hypothetical protein	NA	K4JXL1	Streptococcus_phage	100	1.06e-276
+EHGHJBNO_00191|142008_142626_+	hypothetical protein	NA	K4K7P1	Streptococcus_phage	100	4.91e-136
+EHGHJBNO_00192|142629_143469_+	hypothetical protein	NA	K4JU44	Streptococcus_phage	100	7.53e-195
+EHGHJBNO_00193|143468_143654_+	hypothetical protein	NA	K4JW68	Streptococcus_phage	100	1.24e-36
+EHGHJBNO_00194|143631_143859_+	hypothetical protein	NA	K4JTJ0	Streptococcus_phage	100	1.33e-44
+EHGHJBNO_00195|143900_144296_+	hypothetical protein	NA	K4JXK7	Streptococcus_phage	100	8.06e-90
+EHGHJBNO_00196|144285_144612_+	hypothetical protein	NA	K4K7N7	Streptococcus_phage	100	2.53e-73
+EHGHJBNO_00197|144611_144962_+	hypothetical protein	NA	K4JU39	Streptococcus_phage	100	5.77e-76
+EHGHJBNO_00198|144963_145371_+	hypothetical protein	NA	K4JW65	Streptococcus_phage	100	5.60e-92
+EHGHJBNO_00199|145374_145833_+	hypothetical protein	NA	K4JTI5	Streptococcus_phage	100	1.94e-107
+EHGHJBNO_00200|145854_146223_+	hypothetical protein	NA	K4JXK3	Streptococcus_phage	100	3.39e-80
+EHGHJBNO_00201|146222_146810_+	hypothetical protein	NA	M1IEU4	Streptococcus_phage	98.5	5.62e-137
+EHGHJBNO_00202|146829_150117_+	hypothetical protein	NA	K4JW62	Streptococcus_phage	100	0.0
+EHGHJBNO_00203|150113_151616_+	hypothetical protein	NA	K4JTI1	Streptococcus_phage	100	0.0
+EHGHJBNO_00204|151615_155425_+	hypothetical protein	NA	K4JXJ8	Streptococcus_phage	100	0.0
+EHGHJBNO_00205|155438_157502_+	hypothetical protein	NA	K4K7M8	Streptococcus_phage	100	0.0
+EHGHJBNO_00206|157563_157827_+	hypothetical protein	NA	K4JU33	Streptococcus_phage	100	1.03e-50
+EHGHJBNO_00207|157839_158295_+	hypothetical protein	NA	K4JW58	Streptococcus_phage	100	7.91e-102
+EHGHJBNO_00208|158269_158473_+	hypothetical protein	NA	K4JTH6	Streptococcus_phage	100	4.09e-40
+EHGHJBNO_00209|158484_158601_+	hypothetical protein	NA	NA	NA	NA	NA
+EHGHJBNO_00210|158602_159313_+	hypothetical protein	NA	K4JXJ3	Streptococcus_phage	100	8.16e-173
+EHGHJBNO_00211|159460_159646_+	hypothetical protein	NA	K4K7M3	Streptococcus_phage	100	9.07e-39
+>prophage 2
+NZ_CP082203	NZ_CP082203.1 Streptococcus suis strain NJ3 chromosome, complete genome	2179024	617550	628355		Streptococcus_phage(70.0%)	17	NA	NA
+EHGHJBNO_00653|617550_619107_-	hypothetical protein	NA	Q9AZI5	Lactococcus_phage	42.9	6.52e-84
+EHGHJBNO_00654|619103_619967_-	hypothetical protein	NA	A0A1X9I6L2	Streptococcus_phage	67.7	1.10e-137
+EHGHJBNO_00655|619947_620235_-	hypothetical protein	NA	A0A1X9I5U9	Streptococcus_phage	57.8	8.24e-32
+EHGHJBNO_00656|620227_620578_-	hypothetical protein	NA	NA	NA	NA	NA
+EHGHJBNO_00657|620574_620853_-	hypothetical protein	NA	NA	NA	NA	NA
+EHGHJBNO_00658|620863_621070_-	hypothetical protein	NA	A0A1X9I725	Streptococcus_phage	86.4	5.44e-34
+EHGHJBNO_00659|621073_621265_-	hypothetical protein	NA	NA	NA	NA	NA
+EHGHJBNO_00660|621230_621461_-	hypothetical protein	NA	A0A1X9I5V6	Streptococcus_phage	91.0	7.87e-36
+EHGHJBNO_00661|621450_621726_-	hypothetical protein	NA	A0A1X9I5W5	Streptococcus_phage	93.4	8.37e-53
+EHGHJBNO_00662|622110_622734_-	hypothetical protein	NA	R9QNB1	Lactococcus_phage	44.4	6.26e-37
+EHGHJBNO_00663|622746_622944_-	hypothetical protein	NA	A0A1X9I5U5	Streptococcus_phage	70.8	1.72e-24
+EHGHJBNO_00664|623064_623910_+	hypothetical protein	NA	NA	NA	NA	NA
+EHGHJBNO_00665|624338_625505_+	Tyrosine recombinase XerC	NA	A0A1X9I5Y5	Streptococcus_phage	49.6	2.05e-118
+EHGHJBNO_00666|625600_625837_+	hypothetical protein	NA	NA	NA	NA	NA
+EHGHJBNO_00667|625829_626528_+	Cyclopentanol dehydrogenase	NA	NA	NA	NA	NA
+EHGHJBNO_00668|626539_627097_+	hypothetical protein	NA	NA	NA	NA	NA
+EHGHJBNO_00669|627086_628355_+	RNA-splicing ligase RtcB	NA	A0A288TY95	Enterococcus_phage	44.5	7.51e-121
+>prophage 3
+NZ_CP082203	NZ_CP082203.1 Streptococcus suis strain NJ3 chromosome, complete genome	2179024	662225	679673		Streptococcus_phage(86.67%)	17	NA	NA
+EHGHJBNO_00704|662225_663248_+	PhoH-like protein	NA	W8D063	Erwinia_phage	49.8	4.96e-61
+EHGHJBNO_00705|663237_663741_+	hypothetical protein	NA	NA	NA	NA	NA
+EHGHJBNO_00706|663787_664426_-	putative metallo-hydrolase	NA	A0A1X9I5D3	Streptococcus_phage	98.6	1.67e-160
+EHGHJBNO_00707|664533_666765_+	3'-5' exonuclease DinG	NA	A0A1X9I5C8	Streptococcus_phage	96.5	0.0
+EHGHJBNO_00708|666805_667006_+	3'-5' exonuclease DinG	NA	A0A1X9I5C8	Streptococcus_phage	77.8	7.77e-25
+EHGHJBNO_00709|667149_668226_+	Glutamate 5-kinase 1	NA	A0A1X9I5D0	Streptococcus_phage	98.6	7.66e-246
+EHGHJBNO_00710|668290_669529_+	Gamma-glutamyl phosphate reductase	NA	A0A1X9I5D4	Streptococcus_phage	95.1	2.56e-269
+EHGHJBNO_00711|669538_670324_+	Pyrroline-5-carboxylate reductase	NA	A0A1X9I6T5	Streptococcus_phage	94.3	9.92e-166
+EHGHJBNO_00712|670345_670750_-	hypothetical protein	NA	A0A1X9I6A2	Streptococcus_phage	97.8	3.00e-82
+EHGHJBNO_00713|670876_671728_+	DegV domain-containing protein	NA	A0A1X9I5J4	Streptococcus_phage	98.9	2.52e-195
+EHGHJBNO_00714|671981_673241_-	HTH-type transcriptional regulatory protein GabR	NA	A0A1X9I5H2	Streptococcus_phage	98.6	7.93e-304
+EHGHJBNO_00715|673363_674098_+	Peroxide stress resistance protein YaaA	NA	A0A1X9I5I0	Streptococcus_phage	97.2	3.20e-149
+EHGHJBNO_00716|674199_675645_+	Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU	NA	A0A1X9I5X1	Streptococcus_phage	92.7	4.40e-272
+EHGHJBNO_00717|675662_676352_+	putative capsular polysaccharide biosynthesis protein YwqC	NA	A0A1X9I5E1	Streptococcus_phage	94.8	7.61e-145
+EHGHJBNO_00718|676361_677045_+	Tyrosine-protein kinase CpsD	NA	A0A1X9I5D6	Streptococcus_phage	93.5	1.08e-138
+EHGHJBNO_00719|677085_677817_+	Tyrosine-protein phosphatase CpsB	NA	NA	NA	NA	NA
+EHGHJBNO_00720|677846_679673_+	UDP-N-acetyl-alpha-D-glucosamine C6 dehydratase	NA	A0A1V0SAI8	Catovirus	28.1	2.63e-26
+>prophage 4
+NZ_CP082203	NZ_CP082203.1 Streptococcus suis strain NJ3 chromosome, complete genome	2179024	1191792	1235754	protease	Streptococcus_phage(100.0%)	47	NA	NA
+EHGHJBNO_01198|1191792_1193511_+	Phosphoglucomutase	NA	A0A1X9I671	Streptococcus_phage	99.3	0.0
+EHGHJBNO_01199|1193959_1194562_-	hypothetical protein	NA	D0R0F9	Streptococcus_phage	100	3.35e-88
+EHGHJBNO_01200|1194787_1195687_-	HTH-type transcriptional activator RhaS	NA	D0R0F8	Streptococcus_phage	95.3	5.22e-202
+EHGHJBNO_01201|1195983_1197903_-	tetracycline resistance ribosomal protection protein Tet(O)	NA	A0A1B0RXH7	Streptococcus_phage	99.8	0.0
+EHGHJBNO_01202|1198269_1198644_-	hypothetical protein	NA	A0A1B0RXG6	Streptococcus_phage	100	3.93e-89
+EHGHJBNO_01203|1198911_1200204_-	hypothetical protein	NA	A0A1B0RXE6	Streptococcus_phage	99.3	1.40e-314
+EHGHJBNO_01204|1200166_1201408_-	hypothetical protein	NA	A0A1X9I6J1	Streptococcus_phage	97.3	1.10e-291
+EHGHJBNO_01205|1201631_1203101_-	hypothetical protein	NA	A0A1B0RXF2	Streptococcus_phage	99.0	0.0
+EHGHJBNO_01206|1203107_1203503_-	hypothetical protein	NA	A0A1B0RXK5	Streptococcus_phage	100	4.41e-69
+EHGHJBNO_01207|1203480_1203849_-	hypothetical protein	NA	A0A1B0RXE8	Streptococcus_phage	99.2	6.57e-87
+EHGHJBNO_01208|1203854_1204061_-	hypothetical protein	NA	A0A1B0RXF3	Streptococcus_phage	100	1.95e-34
+EHGHJBNO_01209|1204073_1208585_-	hypothetical protein	NA	A0A1X9I747	Streptococcus_phage	86.9	0.0
+EHGHJBNO_01210|1208586_1209309_-	hypothetical protein	NA	A0A1B0RXF0	Streptococcus_phage	99.2	7.83e-173
+EHGHJBNO_01211|1209305_1212425_-	Chromosome partition protein Smc	NA	Q6DMT2	Streptococcus_phage	74.7	0.0
+EHGHJBNO_01212|1212607_1213027_-	hypothetical protein	NA	D0R0E2	Streptococcus_phage	92.8	1.64e-86
+EHGHJBNO_01213|1213037_1213607_-	hypothetical protein	NA	A0A1B0RXE2	Streptococcus_phage	100	3.41e-135
+EHGHJBNO_01214|1213608_1213935_-	hypothetical protein	NA	A0A1B0RXK6	Streptococcus_phage	98.1	1.52e-74
+EHGHJBNO_01215|1213941_1214310_-	hypothetical protein	NA	D0R0D9	Streptococcus_phage	94.3	1.09e-67
+EHGHJBNO_01216|1214302_1214641_-	hypothetical protein	NA	A0A1B0RXE4	Streptococcus_phage	97.3	7.41e-77
+EHGHJBNO_01217|1214640_1214901_-	hypothetical protein	NA	A0A1B0RXE3	Streptococcus_phage	98.8	4.09e-53
+EHGHJBNO_01218|1214900_1216106_-	hypothetical protein	NA	A0A1B0RXF4	Streptococcus_phage	99.8	2.90e-290
+EHGHJBNO_01219|1216124_1216820_-|protease	ATP-dependent Clp protease proteolytic subunit	protease	M1PLE5	Streptococcus_phage	97.0	6.90e-158
+EHGHJBNO_01220|1216812_1218096_-	hypothetical protein	NA	A0A1B0RXD8	Streptococcus_phage	100	0.0
+EHGHJBNO_01221|1218153_1218498_-	hypothetical protein	NA	A0A1B0RXD0	Streptococcus_phage	100	1.74e-76
+EHGHJBNO_01222|1218634_1218973_-	hypothetical protein	NA	A0A1B0RXD2	Streptococcus_phage	100	2.39e-73
+EHGHJBNO_01223|1218972_1219275_-	hypothetical protein	NA	A0A1B0RXC8	Streptococcus_phage	100	9.58e-63
+EHGHJBNO_01224|1219334_1220927_-	hypothetical protein	NA	A0A1B0RXD3	Streptococcus_phage	100	0.0
+EHGHJBNO_01225|1220923_1221397_-	hypothetical protein	NA	A0A1B0RXG3	Streptococcus_phage	100	3.07e-111
+EHGHJBNO_01226|1221447_1221678_-	hypothetical protein	NA	A0A1X9I697	Streptococcus_phage	100	6.97e-54
+EHGHJBNO_01227|1221679_1221892_-	hypothetical protein	NA	A0A1B0RXD4	Streptococcus_phage	100	9.68e-47
+EHGHJBNO_01228|1221893_1222142_-	hypothetical protein	NA	A0A1B0RXD5	Streptococcus_phage	100	6.32e-55
+EHGHJBNO_01229|1222238_1223492_-	hypothetical protein	NA	A0A1B0RXE5	Streptococcus_phage	100	2.80e-312
+EHGHJBNO_01230|1223463_1223925_-	hypothetical protein	NA	A0A1B0RXC6	Streptococcus_phage	100	3.09e-118
+EHGHJBNO_01231|1224223_1224589_-	hypothetical protein	NA	A0A1B0RXC9	Streptococcus_phage	100	1.96e-92
+EHGHJBNO_01232|1224613_1224985_-	hypothetical protein	NA	A0A1B0RXC0	Streptococcus_phage	100	1.49e-88
+EHGHJBNO_01233|1225017_1226055_-	S-adenosylmethionine synthase	NA	A0A1B0RXC1	Streptococcus_phage	100	8.69e-250
+EHGHJBNO_01234|1226102_1226285_-	hypothetical protein	NA	M1NSL0	Streptococcus_phage	100	2.75e-35
+EHGHJBNO_01235|1226479_1226956_-	hypothetical protein	NA	A0A1B0RXB9	Streptococcus_phage	100	9.11e-109
+EHGHJBNO_01236|1226948_1228325_-	hypothetical protein	NA	A0A1B0RXH8	Streptococcus_phage	100	0.0
+EHGHJBNO_01237|1228305_1228587_-	hypothetical protein	NA	A0A1B0RXC4	Streptococcus_phage	100	3.34e-62
+EHGHJBNO_01238|1228871_1231157_-	hypothetical protein	NA	A0A1B0RXC5	Streptococcus_phage	95.4	0.0
+EHGHJBNO_01239|1231464_1231599_+	hypothetical protein	NA	Q6DMW0	Streptococcus_phage	68.2	2.48e-09
+EHGHJBNO_01240|1231573_1231897_+	hypothetical protein	NA	M1PSP3	Streptococcus_phage	97.1	2.14e-64
+EHGHJBNO_01241|1231889_1233011_+	hypothetical protein	NA	M1Q218	Streptococcus_phage	93.8	2.44e-261
+EHGHJBNO_01242|1233015_1233564_+	hypothetical protein	NA	M1PLM6	Streptococcus_phage	98.9	5.69e-126
+EHGHJBNO_01243|1233582_1233750_+	hypothetical protein	NA	A0A1X9I6D2	Streptococcus_phage	100	1.51e-30
+EHGHJBNO_01244|1233798_1235754_+	hypothetical protein	NA	A0A1B0RXB4	Streptococcus_phage	93.9	0.0
+>prophage 5
+NZ_CP082203	NZ_CP082203.1 Streptococcus suis strain NJ3 chromosome, complete genome	2179024	1241088	1253149	transposase	Streptococcus_phage(83.33%)	13	NA	NA
+EHGHJBNO_01250|1241088_1241547_-|transposase	IS6 family transposase IS1216V	transposase	A0A1X9I6C6	Streptococcus_phage	100	2.52e-106
+EHGHJBNO_01251|1241578_1242442_-	Aminoglycoside 6-adenylyltransferase	NA	A0A1X9I6F2	Streptococcus_phage	100	5.21e-215
+EHGHJBNO_01252|1242474_1243209_-	2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial	NA	A0A1X9I6N4	Streptococcus_phage	100	1.53e-181
+EHGHJBNO_01253|1243189_1244059_-	hypothetical protein	NA	A0A1X9I6C9	Streptococcus_phage	90.7	5.45e-193
+EHGHJBNO_01254|1244073_1244298_-	hypothetical protein	NA	NA	NA	NA	NA
+EHGHJBNO_01255|1244915_1245284_+	hypothetical protein	NA	E4ZFJ1	Streptococcus_phage	97.5	8.00e-79
+EHGHJBNO_01256|1245270_1245570_+	hypothetical protein	NA	M1PG86	Streptococcus_phage	99.0	3.92e-66
+EHGHJBNO_01257|1245755_1247219_-	ABC-F type ribosomal protection protein Msr(D)	NA	A0A2I4R674	Erysipelothrix_phage	95.3	0.0
+EHGHJBNO_01258|1247339_1248557_-	Enterobactin exporter EntS	NA	A0A2K5B2B5	Erysipelothrix_phage	99.0	2.41e-275
+EHGHJBNO_01259|1249102_1249522_-	hypothetical protein	NA	A0A1B0RXA3	Streptococcus_phage	100	2.01e-96
+EHGHJBNO_01260|1249536_1250649_-	hypothetical protein	NA	A0A1B0RXA2	Streptococcus_phage	100	6.03e-265
+EHGHJBNO_01261|1250777_1251413_-	hypothetical protein	NA	A0A1B0RX99	Streptococcus_phage	100	4.40e-151
+EHGHJBNO_01262|1251793_1253149_-	putative RNA methyltransferase	NA	E4ZFI6	Streptococcus_phage	98.2	0.0
+>prophage 6
+NZ_CP082203	NZ_CP082203.1 Streptococcus suis strain NJ3 chromosome, complete genome	2179024	1420069	1435363		Streptococcus_phage(93.75%)	17	NA	NA
+EHGHJBNO_01418|1420069_1420897_+	Exodeoxyribonuclease	NA	M1PSC0	Streptococcus_phage	99.6	1.60e-203
+EHGHJBNO_01419|1421292_1422192_+	hypothetical protein	NA	M1Q1N9	Streptococcus_phage	99.7	4.08e-209
+EHGHJBNO_01420|1422208_1422562_-	Regulatory protein MgsR	NA	M1PLC0	Streptococcus_phage	100	9.54e-80
+EHGHJBNO_01421|1422545_1423013_-	Methylated-DNA--protein-cysteine methyltransferase	NA	M1PFU9	Streptococcus_phage	95.5	3.14e-106
+EHGHJBNO_01422|1423054_1424236_-	Formate dehydrogenase, mitochondrial	NA	M1NSB9	Streptococcus_phage	100	2.53e-280
+EHGHJBNO_01423|1424289_1424847_-	hypothetical protein	NA	M1PSC3	Streptococcus_phage	96.2	8.08e-132
+EHGHJBNO_01424|1424846_1425938_-	Phosphoserine aminotransferase	NA	M1Q1P2	Streptococcus_phage	98.9	4.56e-261
+EHGHJBNO_01425|1426360_1427224_-	Ribosomal RNA small subunit methyltransferase I	NA	M1PLC5	Streptococcus_phage	98.6	3.20e-200
+EHGHJBNO_01426|1427225_1427543_-	Initiation-control protein YabA	NA	M1PFV3	Streptococcus_phage	100	5.61e-71
+EHGHJBNO_01427|1427562_1428447_-	hypothetical protein	NA	M1NSC1	Streptococcus_phage	99.0	1.58e-199
+EHGHJBNO_01428|1428443_1429082_-	Thymidylate kinase	NA	M1PSC7	Streptococcus_phage	97.6	2.00e-143
+EHGHJBNO_01429|1429608_1430475_+	hypothetical protein	NA	M1Q1P6	Streptococcus_phage	99.7	5.91e-197
+EHGHJBNO_01430|1430515_1431784_-	hypothetical protein	NA	M1PLC8	Streptococcus_phage	99.5	7.21e-279
+EHGHJBNO_01431|1431789_1432617_-	hypothetical protein	NA	M1PFV6	Streptococcus_phage	96.4	3.60e-175
+EHGHJBNO_01432|1432710_1433367_-	Inosine-5'-monophosphate dehydrogenase	NA	M1NSC5	Streptococcus_phage	99.1	9.84e-147
+EHGHJBNO_01433|1433450_1434206_-	Epoxyqueuosine reductase QueH	NA	NA	NA	NA	NA
+EHGHJBNO_01434|1434652_1435363_-	High-affinity branched-chain amino acid transport ATP-binding protein LivF	NA	G9BWD6	Planktothrix_phage	29.3	3.23e-19
+>prophage 7
+NZ_CP082203	NZ_CP082203.1 Streptococcus suis strain NJ3 chromosome, complete genome	2179024	1439765	1458497	protease	Streptococcus_phage(94.44%)	19	NA	NA
+EHGHJBNO_01439|1439765_1440080_+	hypothetical protein	NA	A0A1S5SF38	Streptococcus_phage	100	7.40e-71
+EHGHJBNO_01440|1440098_1440482_+	hypothetical protein	NA	A0A1S5SF96	Streptococcus_phage	100	3.08e-83
+EHGHJBNO_01441|1440510_1441896_+	hypothetical protein	NA	A0A1S5SFB5	Streptococcus_phage	100	0.0
+EHGHJBNO_01442|1442073_1443279_+	hypothetical protein	NA	A0A1S5SEX3	Streptococcus_phage	100	1.15e-296
+EHGHJBNO_01443|1443321_1443543_+	hypothetical protein	NA	A0A1S5SEY0	Streptococcus_phage	100	4.54e-42
+EHGHJBNO_01444|1443659_1444157_+	hypothetical protein	NA	A0A1S5SF25	Streptococcus_phage	100	2.21e-117
+EHGHJBNO_01445|1444131_1444638_+	hypothetical protein	NA	A0A1S5SEX7	Streptococcus_phage	100	1.37e-117
+EHGHJBNO_01446|1444621_1447069_+	hypothetical protein	NA	A0A1S5SF64	Streptococcus_phage	100	0.0
+EHGHJBNO_01447|1447137_1449249_+	hypothetical protein	NA	A0A1S5SF30	Streptococcus_phage	100	0.0
+EHGHJBNO_01448|1449245_1450247_+	hypothetical protein	NA	A0A1S5SEZ8	Streptococcus_phage	100	1.22e-243
+EHGHJBNO_01449|1450261_1451179_+	hypothetical protein	NA	A0A1S5SF22	Streptococcus_phage	99.0	5.99e-213
+EHGHJBNO_01450|1451555_1453475_+	tetracycline resistance ribosomal protection protein Tet(M)	NA	A0A1S5SF82	Streptococcus_phage	98.7	0.0
+EHGHJBNO_01451|1453820_1454174_-	hypothetical protein	NA	A0A1S5SFA6	Streptococcus_phage	100	2.17e-76
+EHGHJBNO_01452|1454678_1455101_+	hypothetical protein	NA	A0A1S5SEW0	Streptococcus_phage	100	1.46e-94
+EHGHJBNO_01453|1455097_1455328_+	hypothetical protein	NA	A0A1S5SEX1	Streptococcus_phage	100	1.31e-49
+EHGHJBNO_01454|1455788_1455992_+	hypothetical protein	NA	A0A1S5SF07	Streptococcus_phage	100	1.73e-41
+EHGHJBNO_01455|1456073_1457291_+	Transposase from transposon Tn916	NA	A0A1S5SEW7	Streptococcus_phage	100	1.76e-293
+EHGHJBNO_01456|1457507_1457780_-	hypothetical protein	NA	NA	NA	NA	NA
+EHGHJBNO_01457|1457906_1458497_-|protease	ATP-dependent Clp protease proteolytic subunit	protease	A0A223W000	Agrobacterium_phage	56.7	4.48e-69
+>prophage 8
+NZ_CP082203	NZ_CP082203.1 Streptococcus suis strain NJ3 chromosome, complete genome	2179024	2154489	2161119	transposase	Bacillus_phage(33.33%)	8	NA	NA
+EHGHJBNO_02085|2154489_2154963_+|transposase	IS200/IS605 family transposase ISDha13	transposase	D9CGB6	Hyperthermophilic_Archaeal_Virus_2	35.1	3.55e-16
+EHGHJBNO_02086|2155094_2155700_-	hypothetical protein	NA	NA	NA	NA	NA
+EHGHJBNO_02087|2155813_2156482_-	Transcriptional regulatory protein WalR	NA	W8CYM9	Bacillus_phage	43.1	4.55e-52
+EHGHJBNO_02088|2156478_2157861_-	Adaptive-response sensory-kinase SasA	NA	W8CYF6	Bacillus_phage	29.1	6.52e-26
+EHGHJBNO_02089|2157982_2158543_-	hypothetical protein	NA	A0A0A7NNK8	Lactobacillus_phage	61.0	9.14e-43
+EHGHJBNO_02090|2158674_2159469_-	Energy-coupling factor transporter transmembrane protein EcfT	NA	NA	NA	NA	NA
+EHGHJBNO_02091|2159461_2160304_-	Energy-coupling factor transporter ATP-binding protein EcfA2	NA	W6JKT0	Anomala_cuprea_entomopoxvirus	26.4	1.38e-15
+EHGHJBNO_02092|2160279_2161119_-	Energy-coupling factor transporter ATP-binding protein EcfA1	NA	F2Y352	Organic_Lake_phycodnavirus	31.5	4.30e-18
