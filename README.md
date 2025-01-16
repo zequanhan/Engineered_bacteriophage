@@ -81,8 +81,9 @@ Download the required databases from the provided Google Drive link and place th
 #### Download Databases
 
 Access the following Google Drive folder and download:
-- `Mycobacterium.zip`
-- `db.zip`
+
+- [`Mycobacterium.zip`](https://drive.google.com/file/d/1QSi5PCJqNb5zG-ExV0IU57qtkzD9SlJ-/view?usp=drive_link)
+- [`db.zip`](https://drive.google.com/file/d/1y7oqzi4li7qif5xziqx-ixPucyZEtIPv/view?usp=drive_link)
 
 #### Extract and Place Databases
 
