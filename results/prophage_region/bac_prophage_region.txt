@@ -1,9 +1,0 @@
-bacteria_id	genome_size	prophage_start	prophage_end	predict_method	best_hit_species	key_proteins
-NZ_CP082203	NZ_CP082203.1 Streptococcus suis strain NJ3 chromosome, complete genome	2179024	116536	159646	DBSCAN-SWA	Streptococcus_phage(98.18%)	NA
-NZ_CP082203	NZ_CP082203.1 Streptococcus suis strain NJ3 chromosome, complete genome	2179024	617550	628355	DBSCAN-SWA	Streptococcus_phage(70.0%)	NA
-NZ_CP082203	NZ_CP082203.1 Streptococcus suis strain NJ3 chromosome, complete genome	2179024	662225	679673	DBSCAN-SWA	Streptococcus_phage(86.67%)	NA
-NZ_CP082203	NZ_CP082203.1 Streptococcus suis strain NJ3 chromosome, complete genome	2179024	1191792	1235754	DBSCAN-SWA	Streptococcus_phage(100.0%)	protease
-NZ_CP082203	NZ_CP082203.1 Streptococcus suis strain NJ3 chromosome, complete genome	2179024	1241088	1253149	DBSCAN-SWA	Streptococcus_phage(83.33%)	transposase
-NZ_CP082203	NZ_CP082203.1 Streptococcus suis strain NJ3 chromosome, complete genome	2179024	1420069	1435363	DBSCAN-SWA	Streptococcus_phage(93.75%)	NA
-NZ_CP082203	NZ_CP082203.1 Streptococcus suis strain NJ3 chromosome, complete genome	2179024	1439765	1458497	DBSCAN-SWA	Streptococcus_phage(94.44%)	protease
-NZ_CP082203	NZ_CP082203.1 Streptococcus suis strain NJ3 chromosome, complete genome	2179024	2154489	2161119	DBSCAN-SWA	Bacillus_phage(33.33%)	transposase
